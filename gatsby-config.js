@@ -26,7 +26,7 @@ module.exports =  {
       {
         resolve: `gatsby-plugin-postcss`
       },
-      `gatsby-theme-WOM-core`,
+      `gatsby-theme-wom-core`,
       `gatsby-theme-core`
     ]
 };
