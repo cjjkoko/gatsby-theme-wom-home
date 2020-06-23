@@ -17,7 +17,7 @@ module.exports =  {
       `gatsby-transformer-sharp`,
       `gatsby-plugin-sharp`,
       {
-        resolve: `gatsby-theme-WOM-Contentful`,
+        resolve: `gatsby-theme-wom-contentful`,
         options: {
           spaceId: `1q72o6qjws1u`,
           accessToken: `SP8OX5ivftubPDEzrXHUUQtaelbsfFNyI86mr6XArC0`
