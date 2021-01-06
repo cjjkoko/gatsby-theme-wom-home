@@ -17,7 +17,7 @@
     "gatsby-theme-core": "latest",
     "astroturf": "^0.10.4",
     "autoprefixer": "latest",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "css-loader": "^3.5.3",
     "dva-core": "^2.0.2",
     "framer-motion": "^1.11.0",
